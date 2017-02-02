@@ -8,6 +8,6 @@
 #### Exam 2: https://olgabelitskaya.github.io/reflections/reflections-bio110-exam2.html
 
 ## UDACITY cs215   Intro to Algorithms
-####  Lesson 1-2: https://github.com/OlgaBelitskaya/reflections/cs215/reflections-cs215-1-2.ipynb
+####  Lesson 1-2:  https://github.com/OlgaBelitskaya/reflections/tree/master/cs215/reflections-cs215-1-2.ipynb
 
 ## UDACITY
