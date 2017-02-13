@@ -19,7 +19,5 @@
 ####  Lesson 5: https://github.com/OlgaBelitskaya/reflections/tree/master/ud359/reflections-ud359-5.ipynb
 #### Project: https://github.com/OlgaBelitskaya/reflections/tree/master/ud359/reflections-ud359-project.ipynb
 
-
-```python
-
-```
+##  &#x1F4CA; &nbsp; UDACITY ud827 Intro to Descriptive Statistics
+####  Lesson 1-7: https://github.com/OlgaBelitskaya/reflections/tree/master/ud827/reflections-ud827-1-7.ipynb
