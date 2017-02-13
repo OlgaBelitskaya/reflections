@@ -21,3 +21,14 @@
 
 ##  &#x1F4CA; &nbsp; UDACITY ud827 Intro to Descriptive Statistics
 ####  Lesson 1-7: https://github.com/OlgaBelitskaya/reflections/tree/master/ud827/reflections-ud827-1-7.ipynb
+
+##  &#x1F4CA; &nbsp; UDACITY ud501 Machine Learning for Trading
+
+##  &#x1F916; &nbsp; UDACITY ud600 Introduction To Reinforcement Learning
+
+####  Lesson 1-2: https://github.com/OlgaBelitskaya/reflections/tree/master/ud600/reflections-ud600-1-2.html
+####  Lesson 3-4: https://github.com/OlgaBelitskaya/reflections/tree/master/ud600/reflections-ud600-3-4.ipynb
+
+##  &#x1F916; &nbsp; UDACITY ud730 Deep Learning
+
+##  &#x1F916; &nbsp; UDACITY cs373 Artificial Intelligence for Robotics
